@@ -11,7 +11,7 @@ require_once "../bootstrap.php";
 
 echo "<pre>";
 // init du repo
-$repository = $entityManager->getRepository('Tvtruc\Entities\Serie');
+$repository = $entityManager->getRepository('Tvtru\Entities\Serie');
 
 
 
